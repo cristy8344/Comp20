@@ -1,2 +1,2 @@
 # Comp20
-Inside involve all the assignments of my Web Programming course, Computer Science 20 
+Inside involve the first assignment of my Web Programming course, Computer Science 20 
